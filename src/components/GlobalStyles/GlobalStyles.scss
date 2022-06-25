@@ -5,6 +5,10 @@
     --primary: #ff0f;
 }
 
+* {
+    box-sizing: border-box;
+}
+
 html {
     font-size: 62.5%;
 }
